@@ -1,3 +1,6 @@
+#  Ignore files
+Python_practice.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
